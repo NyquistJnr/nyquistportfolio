@@ -1,51 +1,51 @@
 {
-	"acknowledgments": [
-		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
-			"note": "Thank you for all the advice and feedback."
-		},
-		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
-		}
-	],
+  "acknowledgments": [
+    {
+      "person": "Dr. Stephen O. Nwaukwa Jnr - Doctor",
+      "link": "",
+      "note": "Thank you for all the advice and feedback."
+    },
+    {
+      "person": "Dr. Samuel Ugboaja - Professor",
+      "link": "",
+      "note": "Checkout his amazing research."
+    },
+    {
+      "person": "Samuel Nwaukwa - Software Engineer",
+      "link": "",
+      "note": "A major inspiration"
+    },
+    {
+      "person": "Vercel - Platform",
+      "link": "https://vercel.com/docs",
+      "note": "Host your own Next.js project for free!"
+    }
+  ],
 
-	"links": [
-		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
-		}
-	],
+  "links": [
+    {
+      "person": "Trading Times FX",
+      "link": "https://tradingtimes.africa/",
+      "note": "Best place to learn FX"
+    }
+  ],
 
-	"social": [
-		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
-			"icon": "dev"
-		},
-		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
-			"icon": "linkedin"
-		},
-		{
-			"url": "https://github.com/atlamors",
-			"icon": "github"
-		}
-	]
+  "social": [
+    {
+      "url": "https://medium.com/@nyquist.nwaukwa",
+      "icon": "medium"
+    },
+    {
+      "url": "https://dev.to/nyquistjnr",
+      "icon": "dev"
+    },
+    {
+      "url": "https://www.linkedin.com/in/nyquistjnr/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/nyquistjnr",
+      "icon": "github"
+    }
+  ]
 }
